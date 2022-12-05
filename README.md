@@ -1,2 +1,2 @@
 # JTests
-My java tests
+My java tests.
